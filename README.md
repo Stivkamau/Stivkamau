@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Stivkamau
+- 👋 Hi, I’m Stiv
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning CSS, JavaScript and HTML.
-- 💞️ I’m looking to collaborate on web projects.
-- 📫 How to reach me. Twitter @stiv_kamau, Instagram stiv_kamau. 
+- 🌱 I’m currently learning Java.
+- 📫 How to reach me. Twitter @stiv_kamau 
 
 <!---
 Stivkamau/Stivkamau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
